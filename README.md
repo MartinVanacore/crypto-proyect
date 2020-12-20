@@ -2,6 +2,7 @@
 ## Proyecto Crypto
 
 Este es un proyecto realizado en Vanilla JavaScrip moderno. La app es basica, pero la intencion es consumir datos de un API externa y practicar.
+Este proyecto es parte de la practica de un curso de Javascript Moderno, del instructor Juan Pablo De la torre Valdez, Codigo con juan. https://codigoconjuan.com/
 
 **Link en Netlify:** https://crypto-proyect-test.netlify.app/
 
